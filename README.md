@@ -1,6 +1,6 @@
 # NTU_course
 
-This is a overview of my course materials @NTU during 2020-2022.
+This is an overview of my course materials @NTU during 2020-2022.
 Every link will lead to a individual repo.
 
 ## AI 2020
